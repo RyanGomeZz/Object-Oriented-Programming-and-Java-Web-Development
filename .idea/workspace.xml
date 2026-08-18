@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5d5218d8-ac5b-4aa2-a893-9485727b0b86" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Object-Oriented-Programming-and-Java-Web-Development.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cp01/cp01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cp01/src/Aluno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cp01/src/Aula.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cp01/src/Curso.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cp01/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cp01/src/Progresso.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cp01/src/Turma.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cp01/Aluno.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cp01/Aula.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cp01/Curso.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cp01/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cp01/Progresso.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cp01/Turma.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="3I4BYOWeHivoz2fdcKSrJGwFYTv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d5218d8-ac5b-4aa2-a893-9485727b0b86" name="Changes" comment="" />
+      <created>1787014008529</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1787014008529</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
